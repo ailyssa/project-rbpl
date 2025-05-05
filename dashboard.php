@@ -100,7 +100,7 @@
       <div class="container">
         <img src="logo.png" alt="Speedfix Garage" class="logo">
         <div class="hero-text">
-          <p class="tagline">Quality</p>
+          <p class="tagline">Quality car service at a fair price</p>
           <h1>Specialized, efficient, and thorough car services</h1>
           <p class="desc">We provide performing car repair using the least amount of time, energy, and money.</p>
           <div class="buttons">
